@@ -1,0 +1,113 @@
+{
+    "productos": [
+      {
+          "id": "aguacate",
+          "name": "Aguacatito",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706694/aguacate_kcoc0a.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "En su punto y blandito"
+      },
+      {
+          "id": "alimentos-ricos",
+          "name": "hojas",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/alimentos-ricos-en-nutrientes_gvrqmb.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "hierbas ricas en nutrientes"
+      },
+      {
+          "id": "arroz",
+          "name": "Arroz",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/arroz_vusucj.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "El mejor arroz de fácil coccion"
+      },
+      {
+          "id": "atun",
+          "name": "atun",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/atun_iridog.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "Atun enlatado bajo en grasas"
+      },
+      {
+          "id": "banano",
+          "name": "Fruta",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/banano_pfmdy1.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "Fruta para todo en la casa a buen precio"
+      },
+      {
+          "id": "caraotas_pantera",
+          "name": "caraotas-negras",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/carotas_pantera_dbnwsm.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "...."
+      },
+      {
+          "id": "cereal_nestle",
+          "name": "cereal",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/cereal_nestle_fe1bbd.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "Cereal Nestle, buena calida, para los nenes de la casa"
+      },
+      {
+          "id": "cereal",
+          "name": "cereal",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/cereal_ahwnda.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "cereal en hojuelas"
+      },
+      {
+          "id": "deshodorante",
+          "name": "deshodorante",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706694/deshodorante_pmni5x.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "Combo de deshodorante pague 1 lleve 2"
+      },
+      {
+          "id": "pastas",
+          "name": "pastas",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706694/doria_zxa6s7.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "Pasta Doria la mas sabrosa"
+      },
+      {
+          "id": "jugo_hit",
+          "name": "jugo",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706694/jugo_hit_rg0f5m.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "Jugos hit el mejor sabor del mundo"
+      },
+      {
+          "id": "jumex",
+          "name": "jumex",
+          "category": "alimentos",
+          "image": "https://res.cloudinary.com/djlvgbuji/image/upload/v1631706695/jumex_bdjcfl.jpg",
+          "precio": "",
+          "iva": "",
+          "description": "..."
+      }
+    ]
+    
+}

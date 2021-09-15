@@ -1,0 +1,8 @@
+.btndark {
+    background-color: gray;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+    color: #fff;
+    background: gray;
+  }

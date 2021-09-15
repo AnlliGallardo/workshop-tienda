@@ -1,0 +1,146 @@
+[
+  {
+    "id": "aguacate",
+    "name": "Aguacatito",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "En su punto y blandito"
+  },
+  {
+    "id": "alimentos-ricos",
+    "name": "hojas",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "hierbas ricas en nutrientes"
+  },
+  {
+    "id": "arroz",
+    "name": "Arroz",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "El mejor arroz de fácil coccion"
+  },
+  {
+    "id": "atun",
+    "name": "atun",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Atun enlatado bajo en grasas"
+  },
+  {
+    "id": "banano",
+    "name": "Fruta",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Fruta para todo en la casa a buen precio"
+  },
+  {
+    "id": "caraotas_pantera",
+    "name": "caraotas-negras",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "...."
+  },
+  {
+    "id": "cereal_nestle",
+    "name": "cereal",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Cereal Nestle, buena calida, para los nenes de la casa"
+  },
+  {
+    "id": "cereal",
+    "name": "cereal",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "cereal en hojuelas"
+  },
+  {
+    "id": "deshodorante",
+    "name": "deshodorante",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Combo de deshodorante pague 1 lleve 2"
+  },
+  {
+    "id": "pastas",
+    "name": "pastas",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Pasta Doria la mas sabrosa"
+  },
+  {
+    "id": "jugo_hit",
+    "name": "jugo",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Jugos hit el mejor sabor del mundo"
+  },
+  {
+    "id": "jumex",
+    "name": "jumex",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "..."
+  },
+  {
+    "id": "leche_nido",
+    "name": "leche nido",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Leche en polvo nido"
+  },
+  {
+    "id": "lentejas",
+    "name": "lentejas",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Lentejas"
+  },
+  {
+    "id": "panetton",
+    "name": "panetton",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Endulzate"
+  },
+  {
+    "id": "piña",
+    "name": "piña",
+    "category": "alimentos",
+    "image": "",
+    "precio": "",
+    "iva": "",
+    "description": "Fruta dulce y fresca"
+  }
+]
